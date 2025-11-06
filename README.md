@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadRasoul Zahmatkesh
 - 👀 I’m interested in Artifitial Intelligence
-- 🌱 I’m currently learning Machine Learning & Data science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning & Deep-Learning
+- 💞️ I’m looking to collaborate on AI research projects or open-source ML tools 
 - 📫 How to reach me pbmrasoul@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love  AI to create smarter scientific solutions & make happy life 
